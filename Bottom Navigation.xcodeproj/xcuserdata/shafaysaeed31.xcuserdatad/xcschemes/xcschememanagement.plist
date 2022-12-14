@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Bottom Navigation.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
 		<key>NavigationBarTask1CubicusSol.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
