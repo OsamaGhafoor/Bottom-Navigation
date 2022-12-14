@@ -20,8 +20,22 @@ struct ViewC: View {
     }
 }
 
+// first you select the 2nd option where repositories are available...
+// then right click on project's name
+// then click on the above scenarios
+// its only for the first time...
+
 struct ViewC_Previews: PreviewProvider {
     static var previews: some View {
         ViewC()
     }
 }
+
+struct ViewC_Previews: PreviewProvider {
+    static var previews: some View {
+        ViewC()
+    }
+}
+
+// this represent any change... when you'll change anything it was new commit
+// goto source control - commit - push
